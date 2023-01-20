@@ -11,7 +11,6 @@ Tolulope is the best
 ---
 #### [Linked File Project](1673588418280.png)
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
-
 For this project, I explored over 2,000 lines of data to find common trends with clients ordering from Doordash.
 
 ---
