@@ -34,7 +34,7 @@ What are the top math schools in the state?
 ### Category Name 2
 
 - [DoorDash Excel](https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=3i6wD8dCQt2EYHZJw6ZvaQ%3D%3D)
-- [Massachusetts Education Tableau](http://example.com/)
+- [Massachusetts Education Tableau](https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
