@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# My Data Analytics Portfolio
 
 ---
 
@@ -9,7 +9,7 @@
 Tolulope is the best
 
 ---
-#### [Linked File Project](DoorDash.pdf)
+#### [Linked File Project]()
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
