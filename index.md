@@ -16,7 +16,7 @@ images/DoorDash.pdf
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata)
+#### [Education Project](https://github.com/TcuMata25/TcuMata25.GitHub.io/blob/8e51fca8613dba6778858dd0dbd5ff5f33a7807c/Massachusetts%20Edu.md)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
