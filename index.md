@@ -6,7 +6,7 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Tolulope is the 
 
 ---
 #### [DoorDash Project](1673588418280.png)
