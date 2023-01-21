@@ -10,7 +10,6 @@ Tolulope is the best
 
 ---
 #### [DoorDash Project](1673588418280.png)
-<img src "1673588418280.png? raw=true"/>
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
