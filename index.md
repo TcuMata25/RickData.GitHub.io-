@@ -17,7 +17,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Education Project]()
-https://github.com/TcuMata25/TcuMata25.GitHub.io/blob/d810d56e34a4c88d4c0c031663759f49d78eb2ec/Massachusetts%20Edu.md
+https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/
 My Education Project. 
 
 
