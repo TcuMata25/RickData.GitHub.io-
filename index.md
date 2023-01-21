@@ -9,7 +9,8 @@
 Tolulope is the best
 
 ---
-#### [Linked File Project](1673588418280.png)
+#### [DoorDash Project](1673588418280.png)
+<img src "1673588418280.png? raw=true"/>
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
@@ -32,8 +33,8 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [DoorDash](https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=3i6wD8dCQt2EYHZJw6ZvaQ%3D%3D)
-- [Project 2 Title](http://example.com/)
+- [DoorDash Excel](https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=3i6wD8dCQt2EYHZJw6ZvaQ%3D%3D)
+- [Massachusetts Education Tableau](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
