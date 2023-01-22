@@ -10,7 +10,7 @@ Tolulope is the
 
 ---
 #### [DoorDash Project](1673588418280.png)
-images/DoorDash.pdf
+<img src="images/DoorDash.png"/>
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
