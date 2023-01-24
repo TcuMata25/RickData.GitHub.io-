@@ -27,7 +27,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 ---
 #### [Bank Project]()
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]()
+[<img src="UC.png"/>]()
  
 
 ---
