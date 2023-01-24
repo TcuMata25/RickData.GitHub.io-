@@ -27,7 +27,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 ---
 #### [Bank Project]()
-[<img src="UC.png"/>]()
+[<img src="images/UC.png"/>]()
  
 
 ---
