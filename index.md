@@ -34,7 +34,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 ### Category Name 2
 
-- [DoorDash Excel](https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=3i6wD8dCQt2EYHZJw6ZvaQ%3D%3D)
+- [DoorDash Excel](/DoorDash.md)
 - [Massachusetts Education Tableau](https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata)
 - [New project](/DoorDash.md)
 - [Project 4 Title](http://example.com/)
