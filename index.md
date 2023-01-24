@@ -10,10 +10,10 @@
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
 While anticipating this year's National Championship game, I ordered some Pad Thai through DoorDash. The food arrived within 45 minutes, and the taste warranted the price. This got me thinking, how often are people ordering from DoorDash? Does age or income play a factor?
-With the help of Excel, I imported a 2,000-row data set and discovered the following:
-$1.24 Million was spent on DoorDash in 2018
-Income levels can explain 67% of the spending variance
-Growth was constant, with an average of 183 new customers per month. November & December were the slowest months, and January showed the most increase.
+With the help of Excel, I imported a 2,000-row data set and discovered the following: <br>
+$1.24 Million was spent on DoorDash in 2018 <br>
+Income levels can explain 67% of the spending variance <br>
+Growth was constant, with an average of 183 new customers per month. November & December were the slowest months, and January showed the most increase. <br>
 
 ---
 #### [Education Project]()
