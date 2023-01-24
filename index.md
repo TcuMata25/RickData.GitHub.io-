@@ -36,7 +36,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 - [DoorDash Excel](/DoorDash.md)
 - [Massachusetts Education Tableau](/MasEDU.md)
-- [New project](/DoorDash.md)
+- [Bank Project](/DoorDash.md)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
