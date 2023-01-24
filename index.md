@@ -4,12 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the 
 
----
-#### [DoorDash Project](1673588418280.png)
+#### [DoorDash Project](/DoorDash.md)
 <img src="images/DoorDash.png"/>
 <https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
 
