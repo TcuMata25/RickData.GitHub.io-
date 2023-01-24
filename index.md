@@ -17,7 +17,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Education Project]()
-<img src="images/Mass Education Pic.png"/>
+<img src="images/MEP.png"/>
 <https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D>
 My Education Project. 
 
