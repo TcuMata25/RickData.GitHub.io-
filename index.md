@@ -20,7 +20,7 @@ Growth was constant, with an average of 183 new customers per month.<br>
 #### [Education Project]()
 <img src="images/MEP.png"/>
 <https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D>
-For this case study, I analyzed different Charter and Public school data for the State of Massachusetts. The Massachusetts school administration wanted to know the following: <br>
+For this case study, I analyzed different Charter and Public school data for the State of Massachusetts. The Massachusetts school administration wanted to know the following: <br> <br>
 Which schools are struggling the most? <br>
 What are the top 4th Grade Math schools in the state? <br>
 Does the size of the class affect college admission? <br>
