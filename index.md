@@ -7,7 +7,7 @@
 
 #### [DoorDash Project](/DoorDash.md)
 <img src="images/DoorDash.png"/>
-<https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D>
+(https://www.linkedin.com/pulse/doordash-analysis-rick-mata/?trackingId=1TrDIKgSSYeoevKGD3hWXw%3D%3D)
 
 While anticipating this year's National Championship game, I ordered some Pad Thai through DoorDash. The food arrived within 45 minutes, and the taste warranted the price. This got me thinking, how often are people ordering from DoorDash? Does age or income play a factor?
 With the help of Excel, I imported a 2,000-row data set and discovered the following: <br>
@@ -19,7 +19,7 @@ Growth was constant, with an average of 183 new customers per month.<br>
 ---
 #### [Education Project]()
 <img src="images/MEP.png"/>
-<https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D> <br> <br>
+(https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D) <br> <br>
 For this case study, I analyzed different Charter and Public school data for the State of Massachusetts. The Massachusetts school administration wanted to know the following: <br> <br>
 Which schools are struggling the most? <br>
 What are the top 4th Grade Math schools in the state? <br>
@@ -30,10 +30,7 @@ The focal point was to give a complete report on each school's performance. I us
 ---
 #### []()
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+ 
 
 ---
 
