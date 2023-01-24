@@ -26,8 +26,8 @@ The focal point was to give a complete report on each school's performance. I us
 
 
 ---
-#### []()
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Bank Project]()
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]()
  
 
 ---
