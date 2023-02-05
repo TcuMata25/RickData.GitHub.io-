@@ -27,18 +27,15 @@ The focal point was to give a complete report on each school's performance. I us
 
 ---
 #### [Bank Project]()
-[<img src="images/UC.png"/>]()
+[<img src="images/UC.png"/>](https://www.linkedin.com/pulse/finance-project-using-sql-rick-mata/?trackingId=92JtTVIOQOaQYlaadELfoA%3D%3D)
+
  
 
 ---
 
-### Category Name 2
+#### [Healthcare Project]()
+[<img src="images/MEP.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
 
-- [DoorDash Excel](/DoorDash.md)
-- [Massachusetts Education Tableau](/MasEDU.md)
-- [Bank Project](/DoorDash.md)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
