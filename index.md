@@ -34,7 +34,7 @@ The focal point was to give a complete report on each school's performance. I us
 ---
 
 #### [Healthcare Project]()
-[<img src="images/MEP.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
+[<The Finance Project using SQL.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
 
 
 ---
