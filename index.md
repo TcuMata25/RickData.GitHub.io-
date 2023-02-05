@@ -27,14 +27,14 @@ The focal point was to give a complete report on each school's performance. I us
 
 ---
 #### [Bank Project]()
-[<"images/The%20Finance%20Project%20using%20SQL.png"/>](https://www.linkedin.com/pulse/finance-project-using-sql-rick-mata/?trackingId=92JtTVIOQOaQYlaadELfoA%3D%3D)
+[<img src= "images/The%20Finance%20Project%20using%20SQL.png"/>](https://www.linkedin.com/pulse/finance-project-using-sql-rick-mata/?trackingId=92JtTVIOQOaQYlaadELfoA%3D%3D)
 
  
 
 ---
 
 #### [Healthcare Project]()
-[<"images/Healthcare%20SQL.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
+[<img src="images/Healthcare%20SQL.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
 
 
 ---
