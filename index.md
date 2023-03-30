@@ -34,12 +34,13 @@ The focal point was to give a complete report on each school's performance. I us
 ---
 
 #### [Healthcare Project]()
-[<img src="images/Healthcare%20SQL.png"/>]([https://www.linkedin.com/pulse/massachusetts-school-analytics-rick-mata/?trackingId=ogjZ3nLNQ%2BaTsiDIpuccYQ%3D%3D](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
+[<img src="images/Healthcare%20SQL.png"/>](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/?trackingId=0hyWWWeABFFezhZV%2Bazhaw%3D%3D)
+](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
 
 
 ---
 
 
 #### [NBA Project]()
-[<img src="images/Nba Cover.png"/>]([https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D/) <br> <br>
+[<img src="images/Nba Cover.png"/>](https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D) <br> <br>
 
