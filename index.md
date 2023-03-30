@@ -41,5 +41,5 @@ The focal point was to give a complete report on each school's performance. I us
 
 
 #### [NBA Project]()
-[<img src="images/Nba Cover.png"/>]([https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D/)) <br> <br>
+[<img src="images/Nba Cover.png"/>]([https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D/) <br> <br>
 
