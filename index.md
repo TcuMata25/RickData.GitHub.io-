@@ -35,7 +35,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 #### [Healthcare Project]()
 [<img src="images/Healthcare%20SQL.png"/>](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/?trackingId=0hyWWWeABFFezhZV%2Bazhaw%3D%3D)
-](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/)) <br> <br>
+<br> <br>
 
 
 ---
