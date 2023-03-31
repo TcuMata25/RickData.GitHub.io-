@@ -28,8 +28,8 @@ The focal point was to give a complete report on each school's performance. I us
 ---
 #### [Bank Project]()
 [<img src= "images/The%20Finance%20Project%20using%20SQL.png"/>](https://www.linkedin.com/pulse/finance-project-using-sql-rick-mata/?trackingId=92JtTVIOQOaQYlaadELfoA%3D%3D)
-In most organizations, the datasets can easily result in over a billion rows of data! When it comes to a massive dataset, we can only rely on something other <br>
-than Microsoft Excel and must use the correct programming language. I used SQL (Structured Query Language) for this project, which easily handles excessive <br>
+In most organizations, the datasets can easily result in over a billion rows of data! When it comes to a massive dataset, we can only rely on something other
+than Microsoft Excel and must use the correct programming language. I used SQL (Structured Query Language) for this project, which easily handles excessive 
 amounts of data.<br>
 
 After observing the data, I was able to determine the following: <br>
@@ -45,7 +45,7 @@ What is the max amount owed to the IDA? <br>
 #### [Healthcare Project]()
 [<img src="images/Healthcare%20SQL.png"/>](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/?trackingId=0hyWWWeABFFezhZV%2Bazhaw%3D%3D)
 <br> <br>
-A hospital administrator hired me to gather data to gather insight into a patient's data, which included duration, treatment, demographic, and what type <br>
+A hospital administrator hired me to gather data to gather insight into a patient's data, which included duration, treatment, demographic, and what type 
 of specialty doctor was needed. <br>
 
 After observing the data, I was able to determine the following: <br>
@@ -61,9 +61,11 @@ Did the number of medications and procedures given to patients play a significan
 
 #### [NBA Project]()
 [<img src="images/Nba Cover.png"/>](https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D) <br> <br>
-For this project, I have been tasked with analyzing the dataset from the latest season to see how NBA superstars helped contribute to their team's success. <br>
-What player at each position had the most assist? Do Point and Shooting guards have the highest 3-point percentage in the Association? Lastly, did Jokic <br> 
-deserve his MVP over Giannis and Joel Embid? <br>
+For this project, I have been tasked with analyzing the dataset from the latest season to see how NBA superstars helped contribute to their
+team's success. <br>
+What player at each position had the most assist? <br>
+Do Point and Shooting guards have the highest 3-point percentage in the Association? <br>
+Lastly, did Jokic deserve his MVP over Giannis and Joel Embid? <br>
 
 After observing the data, I was able to determine the following: <br>
 
@@ -73,9 +75,15 @@ What player at each position had the most assist? <br>
 Did Jokic deserve his MVP over Giannis and Joel Embid? <br>
 
 
+---
+
 
 
 #### [Python Project]()
 [<img src="Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
 <br> <br>
+In my current project, I concentrated on implementing Python within an engineering context. As a data analyst for Metals 'R' US, a mining corporation, I am tasked with utilizing data from the flotation plant to address business inquiries and obtain pertinent information for leadership.
+
+
+
 ---
