@@ -71,13 +71,13 @@ Did Jokic deserve his MVP over Giannis and Joel Embid? <br>
 
 
 #### [Python Project]()
-[<img src="Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
+[<img src="images/Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
 <br> <br>
 In my current project, I concentrated on implementing Python within an engineering context. As a data analyst for Metals 'R' US, a mining corporation, I am tasked with utilizing data from the flotation plant to address business inquiries and obtain pertinent information for leadership. After observing the data, I was able to determine the following: <br>
 
-Is it possible to obtain the count, median, minimum, and maximum values for each column in the dataset?
-Was there any anomaly in collecting samples on 6/1/2017?
-Do we observe a correlation among the various variables we have identified?
-Does the % Iron Concentrate exhibit any variations throughout the day? Additionally, are there any other variables that we can present?
+Is it possible to obtain the count, median, minimum, and maximum values for each column in the dataset? <br>
+Was there any anomaly in collecting samples on 6/1/2017? <br>
+Do we observe a correlation among the various variables we have identified? <br>
+Does the % Iron Concentrate exhibit any variations throughout the day? Additionally, are there any other variables that we can present? <br>
 
 ---
