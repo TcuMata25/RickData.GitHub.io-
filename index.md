@@ -50,7 +50,7 @@ The focal point was to give a complete report on each school's performance. I us
 
 
 #### [Healthcare Project]()
-[<img src="Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
+[<img src="images/Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
 <br> <br>
 
 
