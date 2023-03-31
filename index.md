@@ -28,7 +28,14 @@ The focal point was to give a complete report on each school's performance. I us
 ---
 #### [Bank Project]()
 [<img src= "images/The%20Finance%20Project%20using%20SQL.png"/>](https://www.linkedin.com/pulse/finance-project-using-sql-rick-mata/?trackingId=92JtTVIOQOaQYlaadELfoA%3D%3D)
-
+In most organizations, the datasets can easily result in over a billion rows of data! When it comes to a massive dataset, we can only rely on something other <br>
+than Microsoft Excel and must use the correct programming language. I used SQL (Structured Query Language) for this project, which easily handles excessive <br>
+amounts of data.<br>
+After observing the data, I was able to determine the following: <br>
+How many transactions did Nicaragua have? <br>
+What was the largest transaction Nicaragua made? <br>
+What is the service charge rate for Nicaragua? <br>
+What is the max amount owed to the IDA? <br>
  
 
 ---
@@ -36,22 +43,39 @@ The focal point was to give a complete report on each school's performance. I us
 #### [Healthcare Project]()
 [<img src="images/Healthcare%20SQL.png"/>](https://www.linkedin.com/pulse/healthcare-sql-analysis-rick-mata/?trackingId=0hyWWWeABFFezhZV%2Bazhaw%3D%3D)
 <br> <br>
-
+A hospital administrator hired me to gather data to gather insight into a patient's data, which included duration, treatment, demographic, and what type <br>
+of specialty doctor was needed. <br>
+After observing the data, I was able to determine the following: <br>
+How often were patients staying in the hospital? <br>
+What is the correlation between the number of lab procedures increased per day? <br>
+Does ethnicity play a factor in the number of lab procedures needed? <br>
+What specialty doctor or procedure was needed, and how often on average? <br>
+Did the number of medications and procedures given to patients play a significant role in the duration of the patient's visit to the ER? <br>
 
 ---
 
 
 #### [NBA Project]()
 [<img src="images/Nba Cover.png"/>](https://www.linkedin.com/pulse/nba-analysis-2021-2022-using-tableau-rick-mata/?trackingId=yM3FK%2BU%2BVQd5s63s%2B%2BAVuA%3D%3D) <br> <br>
+For this project, I have been tasked with analyzing the dataset from the latest season to see how NBA superstars helped contribute to their team's success. <br>
+What player at each position had the most assist? Do Point and Shooting guards have the highest 3-point percentage in the Association? Lastly, did Jokic <br> 
+deserve his MVP over Giannis and Joel Embid? <br>
+After observing the data, I was able to determine the following: <br>
+Who led their team in scoring? <br>
+What position had the highest 3-point Shooting %? <br>
+What player at each position had the most assist? <br>
+Did Jokic deserve his MVP over Giannis and Joel Embid? <br>
 
 
 
 
-
-
-#### [Healthcare Project]()
-[<img src="images/Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
+#### [Python Project]()
+[<img src="Python Data Analysis for Mining Operations.png"/>](https://www.linkedin.com/pulse/python-data-analysis-mining-operations-rick-mata/?published=t)
 <br> <br>
-
-
+In my current project, I concentrated on implementing Python within an engineering context. As a data analyst for Metals 'R' US, a mining corporation <br> 
+I am tasked with utilizing data from the flotation plant to address business inquiries and obtain pertinent information for leadership. <br>
+Is it possible to obtain the count, median, minimum, and maximum values for each column in the dataset? <br>
+Was there any anomaly in collecting samples on 6/1/2017? <br>
+Do we observe a correlation among the various variables we have identified?<br>
+Does the % Iron Concentrate exhibit any variations throughout the day? Additionally, are there any other variables that we can present? <br>
 ---
